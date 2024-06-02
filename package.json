@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://aacmkt.github.io/ra-events-state_layouts/",
+  "homepage": "https://aacmkt.github.io/ra-event-state_layouts/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

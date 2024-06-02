@@ -1,43 +1,50 @@
+import photo1 from '../assets/img/1.jpg';
+import photo2 from '../assets/img/2.jpg';
+import photo3 from '../assets/img/3.jpg';
+import photo4 from '../assets/img/4.jpg';
+import photo5 from '../assets/img/5.jpg';
+import photo6 from '../assets/img/6.jpg';
+
 let data = [
     {
         name: "NIKE METCON 2",
         color: "red",
-        img: "./src/assets/img/1.jpg",
+        img: photo1,
         price:"$130"
 
     },
     {
         name: "NIKE METCON 2",
         color: "green",
-        img: "./src/assets/img/2.jpg",
+        img: photo2,
         price:"$130"
 
     },
     {
         name: "NIKE METCON 2",
         color: "blue",
-        img: "./src/assets/img/3.jpg",
+        img: photo3,
         price:"$130"
 
     },
     {
         name: "NIKE METCON 2",
         color: "black",
-        img: "./src/assets/img/4.jpg",
+        img: photo4,
         price:"$130"
 
     },
     {
         name: "NIKE FREE RUN",
         color: "black",
-        img: "./src/assets/img/6.jpg",
+        img: photo5,
         price:"$170"
 
     },
     {
         name: "NIKE METCON 3",
         color: "yellow",
-        img: "./src/assets/img/5.jpg",
+        img: photo6,
         price:"$150"
 
     },
