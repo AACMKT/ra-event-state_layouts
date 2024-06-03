@@ -2,8 +2,6 @@ import { ShopItem } from "./ShopItem"
 
 export function ListWiew({ products }) {
     return (
-        <>
-
     <div className="list-holder">
       { products.map((product, index) => {
         return (
@@ -13,7 +11,5 @@ export function ListWiew({ products }) {
         
       })}
     </div>
-
-        </>
     )
 }
